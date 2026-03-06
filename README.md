@@ -36,3 +36,8 @@ Each doc is a standalone guide with links and references. Start with the [checkl
 | **[PC specs](docs/pc-specs.md)** | GPU tiers by resolution, CPU/RAM/storage, prebuilt vs build-your-own, budget tiers and timing. Links: r/buildapc, PC Part Picker, GPU hierarchy. |
 | **[Peripherals](docs/peripherals.md)** | Keyboard, mouse, headset — shared vs dedicated; Mac/PC compatibility; USB vs Bluetooth vs dongle. |
 | **[Checklist and references](docs/checklist.md)** | Step-by-step checklist (monitor → switching → PC → peripherals → buying) and consolidated reference links. |
+
+
+---
+
+**Note:** This repository is planned for deletion. Content has been migrated out of version control.
